@@ -87,11 +87,5 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     ```python
     test_genel_ajan()
     ```
-
-## 👤 Yazar
-
-**Burak Ali Çelik**
-* Yapay Zeka, Pekiştirmeli Öğrenme (RL) ve Otomasyon Sistemleri üzerine çalışmalar yapmaktadır.
-
 ---
 *Bu proje, kod analizi ve yapay zeka alanındaki deneysel bir çalışmadır.*
